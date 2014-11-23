@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+a { color:#00a651; }
+a:hover{opacity: 0.9;}
+
+label[for="toggle-left"],
+.custom-post-thumbnail p,
+.searchform,
+.entry-thumbnail p{ background:#00a651; }
+
+.front-top .widget:hover { border-top-color:#00a651; }
+
+.sidebar .widget:hover { border-bottom-color:#00a651; }
+ 
